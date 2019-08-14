@@ -2,12 +2,12 @@
 
 cpg_distribute as written by Tim Cutts and Gos Micklem
     
-This directory contains the source code of program written by Tim Cutts
+This directory contains the source code of a program written by Tim Cutts
 and Gos Micklem (in 2004) that detects CpG islands in nucleic acid
 sequences. The program is referenced in the Ensembl database, but
 is not available elsewhere to my knowledge.
 
-The code provided in this commit was provided to my by Gos Micklem.
+The code provided in this commit was provided to me by Gos Micklem.
 
 Usage:
 ```
